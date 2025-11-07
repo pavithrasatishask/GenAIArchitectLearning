@@ -1,0 +1,242 @@
+[
+  {
+    "date": "29/10/2025",
+    "merchant": "ZOMATO LIMITED",
+    "category": "Food & Drink",
+    "label": "Zomato",
+    "amount": "276.2",
+    "currency": "INR",
+    "note": "ZOMATO LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "29/10/2025",
+    "merchant": "ZOMATO LIMITED",
+    "category": "Food & Drink",
+    "label": "Zomato",
+    "amount": "190.45",
+    "currency": "INR",
+    "note": "ZOMATO LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "26/10/2025",
+    "merchant": "BLINKIT COMMERCE PRIVATE LIMITED",
+    "category": "Groceries",
+    "label": "Blinkit",
+    "amount": "502.0",
+    "currency": "INR",
+    "note": "BLINKIT COMMERCE PRIVATE LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Yoyoso",
+    "category": "Other",
+    "label": "",
+    "amount": "890.0",
+    "currency": "INR",
+    "note": "Yoyoso",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Lulu Bangalore",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "1897.29",
+    "currency": "INR",
+    "note": "Lulu Bangalore",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Lulu Bangalore",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "233.1",
+    "currency": "INR",
+    "note": "Lulu Bangalore",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Lulu Bangalore",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "138.0",
+    "currency": "INR",
+    "note": "Lulu Bangalore",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Lulu Bangalore",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "143.75",
+    "currency": "INR",
+    "note": "Lulu Bangalore",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "Lulu Bangalore",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "414.6",
+    "currency": "INR",
+    "note": "Lulu Bangalore",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "ODS PROTECTIVE SERVICES PRIVATE LIMITED",
+    "category": "Other",
+    "label": "",
+    "amount": "30.0",
+    "currency": "INR",
+    "note": "ODS PROTECTIVE SERVICES PRIVATE LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "BLINKIT COMMERCE PRIVATE LIMITED",
+    "category": "Groceries",
+    "label": "Blinkit",
+    "amount": "742.0",
+    "currency": "INR",
+    "note": "BLINKIT COMMERCE PRIVATE LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "25/10/2025",
+    "merchant": "ZOMATO LIMITED",
+    "category": "Food & Drink",
+    "label": "Zomato",
+    "amount": "1013.34",
+    "currency": "INR",
+    "note": "ZOMATO LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "24/10/2025",
+    "merchant": "LULU VALUE MART",
+    "category": "Groceries",
+    "label": "Lulu",
+    "amount": "996.0",
+    "currency": "INR",
+    "note": "LULU VALUE MART",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "23/10/2025",
+    "merchant": "Blinkit",
+    "category": "Groceries",
+    "label": "Blinkit",
+    "amount": "282.0",
+    "currency": "INR",
+    "note": "Blinkit",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "22/10/2025",
+    "merchant": "Blinkit",
+    "category": "Groceries",
+    "label": "Blinkit",
+    "amount": "215.0",
+    "currency": "INR",
+    "note": "Blinkit",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "22/10/2025",
+    "merchant": "Seven Turns Private Limited",
+    "category": "Other",
+    "label": "",
+    "amount": "1908.0",
+    "currency": "INR",
+    "note": "Seven Turns Private Limited",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "22/10/2025",
+    "merchant": "Blinkit",
+    "category": "Groceries",
+    "label": "Blinkit",
+    "amount": "238.0",
+    "currency": "INR",
+    "note": "Blinkit",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "19/10/2025",
+    "merchant": "IKEA INDIA PVT LTD",
+    "category": "Shopping",
+    "label": "IKEA",
+    "amount": "7882.0",
+    "currency": "INR",
+    "note": "IKEA INDIA PVT LTD",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "19/10/2025",
+    "merchant": "IKEA INDIA PVT LTD",
+    "category": "Shopping",
+    "label": "IKEA",
+    "amount": "1825.0",
+    "currency": "INR",
+    "note": "IKEA INDIA PVT LTD",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "19/10/2025",
+    "merchant": "SRI KRISHNA VAIBHAV VEG",
+    "category": "Food & Drink",
+    "label": "",
+    "amount": "80.0",
+    "currency": "INR",
+    "note": "SRI KRISHNA VAIBHAV VEG",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "18/10/2025",
+    "merchant": "Freshivores Gunjur Store",
+    "category": "Groceries",
+    "label": "Freshivores",
+    "amount": "870.0",
+    "currency": "INR",
+    "note": "Freshivores Gunjur Store",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "18/10/2025",
+    "merchant": "ZOMATO LIMITED",
+    "category": "Food & Drink",
+    "label": "Zomato",
+    "amount": "219.93",
+    "currency": "INR",
+    "note": "ZOMATO LIMITED",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "17/10/2025",
+    "merchant": "Cinepolis",
+    "category": "Other",
+    "label": "",
+    "amount": "530.0",
+    "currency": "INR",
+    "note": "Cinepolis",
+    "transaction_type": "Expenses"
+  },
+  {
+    "date": "17/10/2025",
+    "merchant": "M S SAKKATH COFFEE GURU",
+    "category": "Other",
+    "label": "",
+    "amount": "260.0",
+    "currency": "INR",
+    "note": "M S SAKKATH COFFEE GURU",
+    "transaction_type": "Expenses"
+  }
+]
